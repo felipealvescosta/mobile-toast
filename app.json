@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "mobile-toast",
+    "slug": "mobile-toast",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "mobile-toast"
+}
